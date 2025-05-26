@@ -83,3 +83,6 @@ plot_tree() This method visualizes the decision tree structure.
 Dataset: The dataset contains 1000 records and 21 columns. It is related to credit risk assessment the dataset contains data to classify wether a person has a good or bad credit risk.
 
 Based on features such as age,savings,employment,credit_history and more..The target variable is credit_risk which is binary.
+
+**OUTPUT**
+![Image](https://github.com/user-attachments/assets/45dc99a9-2dff-4b16-98f8-6f3b8183a32c)
